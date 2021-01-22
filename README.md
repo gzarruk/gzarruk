@@ -20,5 +20,5 @@ Ideally name the kernel with the same poetry project name
     - git checkout master
     - git pull
 4. Go back to your branch and do git merge master
-    - git checkout '<branch-name>'
+    - git checkout 'branch-name'
     - git merge master
