@@ -1,3 +1,5 @@
+# [WIKI](https://github.com/gzarruk/gzarruk/wiki)
+
 # UTILITIES - HELPER FUNCTIONS AND COMMANDS
 Collection of useful utilities
 
