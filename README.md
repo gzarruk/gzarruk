@@ -31,7 +31,7 @@ While some might call me an *industrial data scientist*, most of my time is spen
 
 - Applying **digital signal processing** techniques to extract meaningful information from noisy data
 - Solving engineering problems with **smart, simple digital tools**
-- Debeloping and optimizing trading bots
+- Developing and optimizing trading bots
 
 ---
 
