@@ -1,1 +1,2 @@
-# [WIKI](https://github.com/gzarruk/gzarruk/wiki)
+# Gustavo Zarruk
+I am a Civil and Environmenatl Engineer with M.Sc. and Ph.D. degrees in envorinmenatl fluid dynamics. More specifically in exprimenyal fluid dynamics. That is where my love for data comes from. I have worked in a wide variety of fields: turbulence, naval hydrodynamics, coastal engineering, multiphase-flows, sub-surface flows. You can check my [academic parpers in this link](https://scholar.google.com/citations?hl=en&user=Ncr0ISUAAAAJ).
