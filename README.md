@@ -1,36 +1,70 @@
 # Gustavo Zarruk
-I am a Civil and Environmenatl Engineer with M.Sc. and Ph.D. degrees in envorinmenatl fluid dynamics. More specifically in exprimental fluid dynamics. That is where my love for data comes from. I have worked in a wide variety of fields: turbulence, naval hydrodynamics, coastal engineering, multiphase-flows, sub-surface flows, and software development for the industrial sector. You can check my academic and industrial trajectory in the following links:
-* [Academic papers](https://scholar.google.com/citations?hl=en&user=Ncr0ISUAAAAJ).
-* [LinkedIn](https://arc.net/l/quote/yusliqil)
 
-I currently work at the intersection of **engineering, digital transformation**, and **data-driven decision-making** within a leading services company in the energy sector. 
+I’m a **Civil and Environmental Engineer** with M.Sc. and Ph.D. degrees in **Environmental Fluid Dynamics**, with a particular focus on **experimental fluid dynamics**. That’s where my passion for data began.
 
-I am what typically called an industrial data scientist. But spend most of my time orchestrating the building process of industrial digital solutions and the putting together the pizes required to build them, both from a technical and organizational stand point.
+Throughout my career, I’ve worked across a diverse range of domains: **turbulence**, **naval hydrodynamics**, **coastal engineering**, **multiphase flows**, **subsurface flows**, and **software development for the industrial sector**.
 
+📚 You can explore my academic and industrial trajectory here:
+- [Academic Papers](https://scholar.google.com/citations?hl=en&user=Ncr0ISUAAAAJ)
+- [LinkedIn](https://arc.net/l/quote/yusliqil)
 
-## What I am good at
+---
 
-Working with complex data sets and complex problems. Figuring out how how to put in motion a solution. 
+## 🏗️ What I Do Now
 
-## What I like
+I currently operate at the intersection of **engineering**, **digital transformation**, and **data-driven decision-making** within a leading services company in the energy sector.
 
-I really enjoy using digital signal processing methods to extract information from data. 
+While some might call me an *industrial data scientist*, most of my time is spent **orchestrating the development of industrial digital solutions**—putting together both the technical and organizational pieces required to make them happen.
 
-In my personal time I like excersing for endurance sports, competing in Ironmans and marathons.
+---
 
-Food is my weakness but I compensate with training 😊.
+## ✅ What I’m Good At
 
-## What helps me be my best:
+- Working with **complex data sets** and **messy real-world problems**
+- Designing and implementing **pragmatic digital solutions**
+- Leading **cross-functional teams** to get things built and delivered
+- Turning domain-specific challenges into **actionable data insights**
 
-Working with doers that have a clear purpose.
+---
 
-## What I don’t like
+## 🔬 What I Enjoy
 
-People that complain to me about things I can't control.
+- Applying **digital signal processing** techniques to extract meaningful information from noisy data
+- Solving engineering problems with **smart, simple digital tools**
+- Debeloping and optimizing trading bots
 
-## How best to work with me:
+---
 
-Bring me a solution to your problem and I'll do what I can to help.
+## 🏃‍♂️ Outside of Work
 
-## Personal Page Where I Keep my Random Interests
-[gzarruk.com)(https://www.gzarruk.com/)
+In my free time, I train and compete in **Ironman races** and **marathons**. Endurance sports help me stay focused and grounded.
+
+🥗 Food is definitely a weakness... but training keeps things balanced. 😊
+
+---
+
+## 🔋 What Helps Me Be My Best
+
+- Working with **doers** who have **clarity of purpose**
+- Collaborating with people who **take ownership** and **follow through**
+
+---
+
+## 🚫 What I Don’t Like
+
+- Complaints about things **outside my control**
+- Endless discussion without **progress**
+- Long meetings (I will get bored and fall asleep)
+
+---
+
+## 🤝 How to Work With Me
+
+Bring me your problem—but also bring a potential solution. If you're willing to act, I’m happy to help.
+
+---
+
+## 🌐 Personal Website
+
+Check out [gzarruk.com](https://www.gzarruk.com/), where I occasionally share side projects, personal interests, and tools I’m exploring.
+
