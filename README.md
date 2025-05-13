@@ -55,6 +55,7 @@ In my free time, I train and compete in **Ironman races** and **marathons**. End
 - Complaints about things **outside my control**
 - Endless discussion without **progress**
 - Long meetings (I will get bored and fall asleep)
+- Seagull Consultants
 
 ---
 
