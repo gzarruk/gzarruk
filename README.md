@@ -31,3 +31,6 @@ People that complain to me about things I can't control.
 ## How best to work with me:
 
 Bring me a solution to your problem and I'll do what I can to help.
+
+## Personal Page Where I Keep my Random Interests
+[gzarruk.com)(https://www.gzarruk.com/)
