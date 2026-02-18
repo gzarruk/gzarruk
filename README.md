@@ -63,9 +63,4 @@ In my free time, I train and compete in **Ironman races** and **marathons**. End
 
 Bring me your problem—but also bring a potential solution. If you're willing to act, I’m happy to help.
 
----
-
-## 🌐 Personal Website
-
-Check out [gzarruk.com](https://www.gzarruk.com/), where I occasionally share side projects, personal interests, and tools I’m exploring.
 
