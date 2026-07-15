@@ -7,6 +7,7 @@ Throughout my career, I’ve worked across a diverse range of domains: **turbule
 📚 You can explore my academic and industrial trajectory here:
 - [Academic Papers](https://scholar.google.com/citations?hl=en&user=Ncr0ISUAAAAJ)
 - [LinkedIn](https://arc.net/l/quote/yusliqil)
+- [gzarruk.com](https://www.gzarruk.com/)
 
 ---
 
